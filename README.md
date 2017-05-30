@@ -67,8 +67,7 @@ Gobang game with Ai and support multiplayers to compete on server.
 2. Multiplayers can paly against with running ```GobangServer``` project, and clicking someone on the online users list on the main page, you can send a invitation to he to paly with.The server is connected by TCP protocol with client and when one player click the specific position, he sends message to server,then server transfer what it gets to the one on the other peer.
 
 
+![Test running](https://github.com/loveppears/gobang_AI_ServerPlay/raw/master/gobang/gobang/Resources/1.png)
+
+
 OK.Build and go.
-
-
-
-
