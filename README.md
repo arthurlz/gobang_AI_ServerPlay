@@ -4,7 +4,7 @@ Gobang game with Ai and support multiplayers to compete on server.
 
 ### Prerequisite
    .Net Framework >= 4.5
-   Visual studio 2015
+   and Visual studio 2015 after
 
 ### What I implement this project.
 * A gobang Ai who you can compete with.
